@@ -2,7 +2,7 @@
 
 Objetivos do Projeto
 --
-Identificar insigths que contribuam para entender o cenário de transito do Brasil e contribuiar na criação de soluções para melhorar e resolver problemas
+Identificar insigths do trânsito nas capitais brasileiras pré-durante-pós pandemia considerando os anos de 2017 a 2025.
 
 Motivação
 --
